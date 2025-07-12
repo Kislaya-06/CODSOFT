@@ -1,4 +1,4 @@
-# 💻 CodSoft Internship – Final Project Submission
+# 💻 CodSoft Internship – Project Submissions
 
 > 🚀 This repository contains all three projects developed as part of my **@CodSoft Internship**.  
 Each project explores a different area of Python — including object-oriented programming, GUI development, and game logic.
