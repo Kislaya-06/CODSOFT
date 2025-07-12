@@ -29,5 +29,40 @@ A command-line calculator that evaluates basic arithmetic expressions in the for
 ### ⚙️ Technologies Used
 - Python (Standard Library)
 
+# 🔐 Secure Password Generator GUI – CodSoft Internship Task 2
+
+@CodSoft
+
+This project is the **second task** completed during my internship at CodSoft. It is a **Python-based GUI application** that allows users to generate secure, customizable passwords with different levels of strength.
+
+---
+
+## 📄 Description
+
+The application provides an easy-to-use interface to generate strong passwords. Users can specify the length and select a strength level (Low, Medium, High). The generated password can be copied to the clipboard in one click.
+
+---
+
+## ✅ Features
+
+- Choose password length (between 4 and 80)
+- Strength levels:
+  - **Low** → Uppercase + Lowercase
+  - **Medium** → Uppercase + Lowercase + Numbers
+  - **High** → Uppercase + Lowercase + Numbers + Symbols
+- Clean and centered UI using `tkinter`
+- Copy password to clipboard functionality
+- Error handling for invalid inputs
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3.x
+- tkinter (standard Python GUI library)
+- string
+- random
+
+
 
 
